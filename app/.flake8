@@ -1,6 +1,8 @@
 [flake8]
+docstring-convention=google
 exclude =
   migrations,
   __pycache__,
   manage.py,
   settings.py
+  __init__.py
