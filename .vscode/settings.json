@@ -22,7 +22,7 @@
   "files.exclude": {
     "**/__pycache__": true
   },
-  "python.analysis.extraPaths": [],
+  "python.analysis.extraPaths": ["./app"],
   "python.analysis.stubPath": "/home/seapagan/stubs",
   "python.formatting.blackArgs": ["--line-length=80"],
   "python.formatting.provider": "black",
